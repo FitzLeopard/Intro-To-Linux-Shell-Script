@@ -8,3 +8,8 @@ This is a very basic course. But it is friendly to beginners and helpful to get 
 
 - Day 1:
   - Your very first script
+
+    How to create and execute a script 
+
+    Some reasons and techniques for the steps
+
